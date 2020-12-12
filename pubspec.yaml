@@ -33,6 +33,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   image_picker: ^0.6.7+15
+  painter: ^0.4.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

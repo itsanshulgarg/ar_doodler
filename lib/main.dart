@@ -13,6 +13,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
+        appBar: AppBar(
+          title: Text("AR Doodler"),
+          centerTitle: true,
+        ),
         body: Center(
           child: HomeScreen(),
         ),
